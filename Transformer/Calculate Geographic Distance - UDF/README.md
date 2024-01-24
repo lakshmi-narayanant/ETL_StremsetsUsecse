@@ -10,7 +10,7 @@
 
 This pipeline demonstrates how to create and register a User-Defined Function in Scala using [StreamSets Transformer](https://streamsets.com/products/dataops-platform/transformer-etl/). The UDF created in this example is a Haversine function that will return the geographic distance between 2 locations.
 
-The source data for this pipeline is a table in SQL Server. Use this [SQL File](./airport.sql?raw=true "Airport Data") to create a copy of the table.
+The source data for this pipeline is a table in ,Mysql. Use this [SQL File](./airport.sql?raw=true "Airport Data") to create a copy of the table.
 
 **Disclaimer:** *This pipeline is meant to serve as a template for creating, registering and using a User-Defined Function in Scala*
 
